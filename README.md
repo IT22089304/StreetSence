@@ -1,4 +1,4 @@
- StreetSense
+🌍 StreetSense
 
 StreetSense is a smart community platform built to help citizens report, track, and manage public issues. It features a clean UI, powerful user roles, and seamless Google authentication to ensure a smooth experience for both users and administrators.
 
@@ -58,10 +58,8 @@ match /reports/{reportId} {
 
 🌐 Live Demo
 
-You can view the project live at: https://streetsense-client.vercel.app (Update this link with your actual deployed URL if different.)
+You can view the project live at: https://streetsense-b945c.web.app/
 
-
-
-📄 License
+License 
 
 LAB Developers
